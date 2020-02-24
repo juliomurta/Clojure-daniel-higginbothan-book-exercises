@@ -1,4 +1,4 @@
-# chapter3-exercises
+# fwpd
 
 FIXME: description
 
@@ -10,7 +10,7 @@ Download from http://example.com/FIXME.
 
 FIXME: explanation
 
-    $ java -jar chapter3-exercises-0.1.0-standalone.jar [args]
+    $ java -jar fwpd-0.1.0-standalone.jar [args]
 
 ## Options
 
