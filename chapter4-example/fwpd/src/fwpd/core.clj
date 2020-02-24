@@ -32,4 +32,5 @@
 
 (defn glitter-filter
   [minimum-glitter records]
-  (filter #(>= (:glitter-index %) minimum-glitter) records))
+  (filter #(>= (:glitter-index %) 
+  minimum-glitter) records))
